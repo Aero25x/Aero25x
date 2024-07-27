@@ -9,7 +9,9 @@
 <br/>
 <!-- Centered CodeWars Badge -->
 <div align="center">
-    <img src="https://www.codewars.com/users/Aero25x/badges/large" alt="CodeWars Badge">
+    <a href="https://www.codewars.com/r/7ZmCCw">
+        <img src="https://www.codewars.com/users/Aero25x/badges/large" alt="CodeWars Badge">
+    </a>
 </div>
 <br/>
 
