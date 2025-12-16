@@ -31,3 +31,24 @@
 </div>
 
 
+
+<br/>
+
+<!-- Current Location Section -->
+<div align="center">
+    <h3>🌍 Currently Traveling to <a href="https://blog.intripp.com/prague/silent-disco-boats-vltava-2026-dance-free-no-instagram-required">Prague</a></h3>
+    <p>Exploring the world one code commit at a time! ✈️</p>
+    <p>Using only <a href="https://intripp.com">Intripp.com</a> as challenge</p>
+   
+</div>
+
+<br/>
+
+<!-- Travel Quote or Fun Fact -->
+<div align="center">
+    <blockquote>
+        <i>"The world is a book, and those who do not travel read only one page." – Saint Augustine</i>
+    </blockquote>
+</div>
+
+
